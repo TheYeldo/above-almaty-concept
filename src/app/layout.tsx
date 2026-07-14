@@ -14,7 +14,7 @@ const sans = Manrope({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://ritz-almaty-concept.example"),
+  metadataBase: new URL("https://above-almaty-concept.vercel.app"),
   title: "The Ritz-Carlton, Almaty — Independent Concept",
   description:
     "A cinematic 3D portfolio concept inspired by a stay above Almaty. Not an official booking website.",
